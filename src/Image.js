@@ -1,6 +1,6 @@
 import React from 'react';
 import image from './comp2.jpg';
-import newImage from './new-image.jpg';
+import newImage from './new-image.jpg'
 
 function Image() {
   return (
